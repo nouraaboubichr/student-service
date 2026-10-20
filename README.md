@@ -2,14 +2,11 @@
 
 
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-16 221655.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-20 220846.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-16 221700.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-20 220854.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-16 221706.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-20 223119.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-16 221722.png" />
+<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-20 223151.png" />
 
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-16 221729.png" />
-
-<img width="1270" height="674" alt="1" src="image/Capture d'écran 2026-10-16 221735.png" />
